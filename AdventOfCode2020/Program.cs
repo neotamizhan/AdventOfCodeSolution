@@ -1,1 +1,1 @@
-﻿new AdventOfCode2020.Day2().Part1();
+﻿new AdventOfCode2020.Day3().Part1();
