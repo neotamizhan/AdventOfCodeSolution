@@ -64,7 +64,7 @@ namespace AdventOfCode2020
             }
             public bool IsValidPassport { get { return IsValidID && Fields.ContainsKey("cid"); } }
 
-            public string ToString()
+            public override string ToString()
             {
                 return $"{Fields["byr"]},{Fields["iyr"]},{Fields["eyr"]},{Fields["hgt"]},{Fields["hcl"]},{Fields["ecl"]},{Fields["pid"]}";
             }

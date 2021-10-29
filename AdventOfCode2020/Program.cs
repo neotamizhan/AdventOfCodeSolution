@@ -1,1 +1,1 @@
-﻿AdventOfCode2020.Day5.Process();
+﻿AdventOfCode2020.Day6.Process(@"Inputs\Day6.txt");
