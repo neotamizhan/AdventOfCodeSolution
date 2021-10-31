@@ -1,1 +1,1 @@
-﻿AdventOfCode2020.Day6.Process();
+﻿AdventOfCode2020.Day7.Process();
