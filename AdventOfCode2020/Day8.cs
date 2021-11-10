@@ -1,11 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace AdventOfCode2020;
 
-namespace AdventOfCode2020
-{
     internal class Day8
     {
         
@@ -62,4 +56,3 @@ namespace AdventOfCode2020
             return new Instruction(cmd[0], int.Parse(cmd[1]));
         }
     }
-}

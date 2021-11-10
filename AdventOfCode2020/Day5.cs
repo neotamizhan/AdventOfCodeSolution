@@ -1,7 +1,4 @@
-﻿using System.Text;
-
-namespace AdventOfCode2020
-{
+﻿namespace AdventOfCode2020;
     internal class Day5
     {
         public static void Process()
@@ -110,4 +107,3 @@ namespace AdventOfCode2020
             }
         }
     }
-}

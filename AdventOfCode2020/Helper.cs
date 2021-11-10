@@ -1,16 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AdventOfCode2020
-{
-    public static class Helper
-    {
-        public static int[] GetInputAsArray(string input)
-        {
-            return input.Split("\n").Select(x => int.Parse(x)).ToArray();
-        }
-    }
-}
+﻿global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Text;
+global using System.Threading.Tasks;
+global using System.IO;
